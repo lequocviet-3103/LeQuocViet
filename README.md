@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Hieu+%F0%9F%91%8B;Software+Engineering+%40+FPT+University;Building+AI-powered+products" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Viet+%F0%9F%91%8B;Software+Engineering+%40+FPT+University;Building+products" alt="Typing SVG" />
 
-**Final-year IT student · Team lead · AI × Software Engineering**
+**Final-year IT student · Software Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
@@ -17,8 +17,8 @@
 ### 🧭 About me
 
 - 🎓 Final-year Software Engineering student at **FPT University HCM**
-- 🧠 Interested in **LLM agents**, **AI-assisted development**, and **product thinking**
-- 🧑‍💼 Enjoy leading teams and turning fuzzy ideas into shippable products
+- 🧠 Interested in ****, ** development**, and **product thinking**
+- 🧑‍💼 products
 - 🔬 Researching behavioral signals for academic-integrity detection in programming courses
 - 🌏 Goal: study abroad and build products that matter
 
@@ -29,9 +29,9 @@
 | Project | Description | Stack |
 |---|---|---|
 | **[METANOIA](https://github.com/YOUR_USERNAME/metanoia)** | Context-aware LLM agent for adaptive task scheduling — learns from planning-fallacy bias, syncs with Google Calendar | .NET 8 · PostgreSQL · pgvector · LLM |
-| **[Harness](https://github.com/YOUR_USERNAME/harness)** | AI-agentic dev pipeline turning a DOCX spec into a working product, with human-in-the-loop gates | LLM agents · Automation |
-| **[AI CV Builder](https://cv-ai-fpt.vercel.app)** | ATS-friendly CV builder with auto job-matching for FPTU students — real paying users | Web · Vercel · AI |
-| **[PasteTrace Research](https://github.com/YOUR_USERNAME/pastetrace)** | Detecting academic dishonesty from coding-behavior logs (keystroke/paste events) | Python · scikit-learn |
+| **[Harness](https://github.com/YOUR_USERNAME/harness)** |  | LLM agents · Automation |
+| **[AI ](https://cv-ai-fpt.vercel.app)** | ATS-friendly  | Web · Vercel · AI |
+| **[](https://github.com/YOUR_USERNAME/pastetrace)** | | Python · scikit-learn |
 
 ---
 
@@ -44,7 +44,7 @@
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub stats
 
 <div align="center">
